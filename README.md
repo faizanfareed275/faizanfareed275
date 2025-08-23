@@ -50,8 +50,13 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/faizan-fareed/faizan-fareed/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/faizanfareed275/faizanfareed275/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/faizanfareed275/faizanfareed275/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/faizanfareed275/faizanfareed275/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 ### 📜 Dev Quote of the Day
 <p align="center">
