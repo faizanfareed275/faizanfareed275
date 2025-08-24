@@ -18,10 +18,23 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 Software Engineering student passionate about **Web Development & AI**  
-- 🌱 Currently learning **Laravel, JavaScript & Machine Learning**  
-- 💡 Always exploring **new technologies** and **open-source contributions**  
-- ✨ Building projects to sharpen skills & share knowledge  
+
+<p align="center">
+  👋 Hi, I’m <b>Faizan Fareed</b> — a passionate <b>Software Engineering Student</b> who loves turning ideas into real-world solutions.  
+</p>
+
+- 🎓 Pursuing **Software Engineering** with a strong interest in **Web Development** & **Artificial Intelligence**  
+- 🌱 Currently sharpening skills in **Laravel, JavaScript, and Machine Learning**  
+- 💡 Enthusiastic about **exploring new technologies** and contributing to **open-source**  
+- 🚀 Dedicated to **building impactful projects** that solve problems and inspire others  
+- 🤝 Open to **collaborations, internships, and innovative opportunities**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Laravel-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/AI-Machine_Learning-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github" />
+</p>
 
 ---
 
@@ -41,15 +54,29 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects  
-- 🔹 [Rock Paper Scissors Game]([wwww.pizerbitsolutions.com](https://www.pizerbitsolutions.com/))
-- 🔹 [Societies_Voting_System](https://github.com/faizanfareed275/Societies_Voting_System)
-- 🔹 [Rock Paper Scissors Game](https://github.com/faizanfareed275/Rock-Paper-Scissors)  
-- 🔹 [Simple Calculator](https://github.com/faizanfareed275/Calculator)  
-- 🔹 [Travel Webpage](https://github.com/faizanfareed275/Travel-Website)
-- 🔹 [Human Analyzer](https://github.com/faizanfareed275/human360)  
-- 
+
+<p align="center">
+  <a href="https://www.pizerbitsolutions.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 PizerBit_Solutions-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/faizanfareed275/Societies_Voting_System" target="_blank">
+    <img src="https://img.shields.io/badge/🗳️ Societies_Voting_System-6A11CB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/faizanfareed275/Rock-Paper-Scissors" target="_blank">
+    <img src="https://img.shields.io/badge/🎮 Rock_Paper_Scissors-FF6F61?style=for-the-badge&logo=gamepad&logoColor=white" />
+  </a>
+  <a href="https://github.com/faizanfareed275/Calculator" target="_blank">
+    <img src="https://img.shields.io/badge/🧮 Simple_Calculator-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  </a>
+  <a href="https://github.com/faizanfareed275/Travel-Website" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Travel_Webpage-28A745?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://github.com/faizanfareed275/human360" target="_blank">
+    <img src="https://img.shields.io/badge/🤖 Human_Analyzer-FF4500?style=for-the-badge&logo=ai&logoColor=white" />
+  </a>
+</p>
+ 
 
 
 ---
