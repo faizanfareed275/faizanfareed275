@@ -62,10 +62,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 PizerBit Solutions](https://www.pizerbitsolutions.com/) | Official website for my IT company showcasing services & solutions | HTML, CSS, Bootstrap |
-| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system with MySQL integration for societies | C++, MySQL |
+| [🌐 PizerBit Solutions](https://www.pizerbitsolutions.com/) | Official website for my IT company showcasing services & solutions | HTML, CSS, Bootstrap, PHP, MySQL |
+| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system societies | C++,L |
 | [🎮 Rock Paper Scissors](https://github.com/faizanfareed275/Rock-Paper-Scissors) | Fun JavaScript game with basic UI for practice | HTML, CSS, JavaScript |
-| [🧮 Simple Calculator](https://github.com/faizanfareed275/Calculator) | Basic calculator app performing arithmetic operations | HTML, CSS, JavaScript |
+| [🧮 Simple Calculator](https://github.com/faizanfareed275/Calculator) | Basic calculator app performing arithmetic operations | HTML, CSS, JavaScript, Bootstrap |
 | [🌍 Travel Webpage](https://github.com/faizanfareed275/Travel-Website) | Responsive travel landing page with Bootstrap | HTML, CSS, Bootstrap |
 | [🤖 Human Analyzer](https://github.com/faizanfareed275/human360) | AI-powered analyzer project for human insights | Python, AI, ML |
 
