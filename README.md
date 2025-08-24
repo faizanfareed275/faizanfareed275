@@ -17,15 +17,12 @@
 
 ---
 
-<h2 align="left">🧑‍💻 About Me | Developer • Learner • Innovator</h2>
-<hr style="border: 1px solid #00C9FF; width: 50%;"/>
- 
+## 🧑‍💻 About Me | Developer • Learner • Innovator 
 
 <p align="center">
   👋 Hi, I’m <b>Faizan Fareed</b> — a passionate <b>Software Engineering Student</b> who loves turning ideas into real-world solutions.  
 </p>
-
-- 🎓 Pursuing **Software Engineering** with a strong interest in **Web Development** & **Artificial Intelligence**  
+  
 - 🌱 Currently sharpening skills in **Laravel, JavaScript, and Machine Learning**  
 - 💡 Enthusiastic about **exploring new technologies** and contributing to **open-source**  
 - 🚀 Dedicated to **building impactful projects** that solve problems and inspire others  
