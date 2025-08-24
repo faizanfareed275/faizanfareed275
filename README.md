@@ -60,6 +60,16 @@
 ---
 ## 🚀 Featured Projects  
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌐 PizerBit Solutions](https://www.pizerbitsolutions.com/) | Official website for my IT company showcasing services & solutions | HTML, CSS, Bootstrap |
+| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system with MySQL integration for societies | C++, MySQL |
+| [🎮 Rock Paper Scissors](https://github.com/faizanfareed275/Rock-Paper-Scissors) | Fun JavaScript game with basic UI for practice | HTML, CSS, JavaScript |
+| [🧮 Simple Calculator](https://github.com/faizanfareed275/Calculator) | Basic calculator app performing arithmetic operations | HTML, CSS, JavaScript |
+| [🌍 Travel Webpage](https://github.com/faizanfareed275/Travel-Website) | Responsive travel landing page with Bootstrap | HTML, CSS, Bootstrap |
+| [🤖 Human Analyzer](https://github.com/faizanfareed275/human360) | AI-powered analyzer project for human insights | Python, AI, ML |
+
+
 <p align="center">
   <a href="https://www.pizerbitsolutions.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 PizerBit_Solutions-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
