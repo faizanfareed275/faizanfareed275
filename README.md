@@ -17,7 +17,9 @@
 
 ---
 
-## 🧑‍💻 About Me  
+<h2 align="left">🧑‍💻 About Me | Developer • Learner • Innovator</h2>
+<hr style="border: 1px solid #00C9FF; width: 50%;"/>
+ 
 
 <p align="center">
   👋 Hi, I’m <b>Faizan Fareed</b> — a passionate <b>Software Engineering Student</b> who loves turning ideas into real-world solutions.  
