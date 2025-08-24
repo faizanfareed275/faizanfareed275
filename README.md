@@ -55,28 +55,14 @@
 ---
 ## 🚀 Featured Projects  
 
-<p align="center">
-  <a href="https://www.pizerbitsolutions.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 PizerBit_Solutions-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/faizanfareed275/Societies_Voting_System" target="_blank">
-    <img src="https://img.shields.io/badge/🗳️ Societies_Voting_System-6A11CB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/faizanfareed275/Rock-Paper-Scissors" target="_blank">
-    <img src="https://img.shields.io/badge/🎮 Rock_Paper_Scissors-FF6F61?style=for-the-badge&logo=gamepad&logoColor=white" />
-  </a>
-  <a href="https://github.com/faizanfareed275/Calculator" target="_blank">
-    <img src="https://img.shields.io/badge/🧮 Simple_Calculator-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  </a>
-  <a href="https://github.com/faizanfareed275/Travel-Website" target="_blank">
-    <img src="https://img.shields.io/badge/🌍 Travel_Webpage-28A745?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>
-  <a href="https://github.com/faizanfareed275/human360" target="_blank">
-    <img src="https://img.shields.io/badge/🤖 Human_Analyzer-FF4500?style=for-the-badge&logo=ai&logoColor=white" />
-  </a>
-</p>
- 
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌐 PizerBit Solutions](https://www.pizerbitsolutions.com/) | Official website for my IT company showcasing services & solutions | HTML, CSS, Bootstrap |
+| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system with MySQL integration for societies | C++, MySQL |
+| [🎮 Rock Paper Scissors](https://github.com/faizanfareed275/Rock-Paper-Scissors) | Fun JavaScript game with basic UI for practice | HTML, CSS, JavaScript |
+| [🧮 Simple Calculator](https://github.com/faizanfareed275/Calculator) | Basic calculator app performing arithmetic operations | HTML, CSS, JavaScript |
+| [🌍 Travel Webpage](https://github.com/faizanfareed275/Travel-Website) | Responsive travel landing page with Bootstrap | HTML, CSS, Bootstrap |
+| [🤖 Human Analyzer](https://github.com/faizanfareed275/human360) | AI-powered analyzer project for human insights | Python, AI, ML |
 
 ---
 
