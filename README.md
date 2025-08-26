@@ -64,8 +64,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🌐 PizerBit Solutions](https://www.pizerbitsolutions.com/) | Official website for my IT company showcasing services & solutions | HTML, CSS, Bootstrap, PHP, MySQL |
-| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system societies | C++,L |
-| [🎮 Rock Paper Scissors](https://github.com/faizanfareed275/Rock-Paper-Scissors) | Fun JavaScript game with basic UI for practice | HTML, CSS, JavaScript |
+| [🗳️ Societies Voting System](https://github.com/faizanfareed275/Societies_Voting_System) | OOP-based voting system societies | C++ |
+| [🎮 Social Nation](https://github.com/faizanfareed275/Social-Nation-) | A Social Media Application | HTML, CSS, JavaScript, PHP, Laravel, SQL |
 | [🧮 Simple Calculator](https://github.com/faizanfareed275/Calculator) | Basic calculator app performing arithmetic operations | HTML, CSS, JavaScript, Bootstrap |
 | [🌍 Travel Webpage](https://github.com/faizanfareed275/Travel-Website) | Responsive travel landing page with Bootstrap | HTML, CSS, Bootstrap |
 | [🤖 Human Analyzer](https://github.com/faizanfareed275/human360) | AI-powered analyzer project for human insights | Python, AI, ML |
