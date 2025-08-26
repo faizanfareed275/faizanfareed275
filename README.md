@@ -45,7 +45,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,mysql,git,github,vscode,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,mysql,git,github,vscode,c,cpp,node.js,express.js" />
 </p>
 
 ---
@@ -54,7 +54,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizanfareed275&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanfareed275&theme=radical" height="180em" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=faizanfareed275&theme=radical" height="180em" />
+
 </p>
 
 ---
